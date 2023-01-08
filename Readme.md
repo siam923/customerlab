@@ -8,7 +8,7 @@ Welcome to the repo! This is a full stack basic project that allows users keep r
 
 ---
 
-1.  Clone the repository: `git clone https://github.com/YOUR_USERNAME/PROJECT_NAME.git`
+1.  Clone the repository: `git clone https://github.com/siam923/customerlab.git`
 2.  Navigate to the project directory: `cd customerlab`
 3.  Install the necessary dependencies:
     - In the server directory: `npm install`
